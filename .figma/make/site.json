@@ -1,0 +1,10 @@
+{
+  "description": "This premium mobile app helps pet owners monitor their pets' health by capturing and analyzing visual changes, providing insights and reminders for better care.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
